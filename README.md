@@ -45,7 +45,6 @@ npm run coverage
 ```
 
 
-
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -76,9 +75,4 @@ To run tests, run the following command
 ```bash
   npm run test
 ```
-
-
-## Screenshots
-
-![App Screenshot]()
 

@@ -1,0 +1,37 @@
+ .articles-list {
+   max-width: 800px;
+   margin: 0 auto;
+ }
+
+ .title {
+   font-size: 24px;
+   margin-bottom: 20px;
+ }
+
+ .article-items {
+   list-style-type: none;
+   padding: 0;
+ }
+
+ .article-item {
+   border-bottom: 1px solid #ccc;
+   padding: 10px 0;
+ }
+
+ .article-link {
+   text-decoration: none;
+   color: #333;
+ }
+
+ .article-link:hover {
+   text-decoration: underline;
+ }
+
+ .article-title {
+   font-size: 18px;
+ }
+
+ .article-date {
+   font-size: 14px;
+   color: #666;
+ }
